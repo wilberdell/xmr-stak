@@ -8,7 +8,7 @@ fi
 if [ -d xmr-stak-cpu ]; then
   git -C xmr-stak-cpu clean -fd
 else
-  git clone https://github.com/fireice-uk/xmr-stak-cpu.git
+  git clone https://github.com/wilberdell/xmr-stak-cpu.git
 fi
 
 
