@@ -42,7 +42,7 @@ Usage: xmr-stak [OPTION]...
   --amd FILE            AMD backend miner config file
 
 The Following options temporary overwrites the config file settings:
-  -o, --url URL         pool url and port, e.g. pool.usxmrpool.com:3333
+  -o, --url URL         pool url and port, e.g. pool.supportxmr.com:5555
   -u, --user USERNAME   pool user name or wallet address
   -p, --pass PASSWD     pool password, in the most cases x or empty ""
 ```
