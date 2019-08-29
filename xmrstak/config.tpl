@@ -17,7 +17,7 @@ POOLCONF],
 
 /*
  * currency to mine
- * allowed values: 'monero' or 'aeon'
+ * allowed values: 'monero'
  */
 "currency" : "CURRENCY",
 
