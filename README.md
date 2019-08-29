@@ -61,7 +61,7 @@ Following coins can be mined using this miner:
 - [Zelerius](https://zelerius.org/)
 
 **[Ryo Currency](https://ryo-currency.com)** - is a way for us to implement the ideas that we were unable to in
-Monero. See [here](https://github.com/fireice-uk/cryptonote-speedup-demo/) for details.
+Monero. See [here](https://github.com/wilberdell/cryptonote-speedup-demo/) for details.
 
 If your preferred coin is not listed, you can choose one of the following mining algorithms:
 - 256Kib scratchpad memory
@@ -97,7 +97,7 @@ Please note, this list is not complete and is not an endorsement.
 
 ## Download
 
-You can find the latest releases and precompiled binaries on GitHub under [Releases](https://github.com/fireice-uk/xmr-stak/releases).
+You can find the latest releases and precompiled binaries on GitHub under [Releases](https://github.com/wilberdell/xmr-stak/releases).
 
 ## Default Developer Donation
 
@@ -107,10 +107,10 @@ If you want to donate directly to support further development, here is my wallet
 
 fireice-uk:
 ```
-4581HhZkQHgZrZjKeCfCJxZff9E3xCgHGF25zABZz7oR71TnbbgiS7sK9jveE6Dx6uMs2LwszDuvQJgRZQotdpHt1fTdDhk
+46E6iLik12TWM4gpkTWXbkUjDxJ9q1nw7cdJ6tNykNWFQVyH8soHed1AfrPbj2KE1KYausbRyVVUm7rCbjmHLNkE3BRQcs7
 ```
 
 psychocrypt:
 ```
-45tcqnJMgd3VqeTznNotiNj4G9PQoK67TGRiHyj6EYSZ31NUbAfs9XdiU5squmZb717iHJLxZv3KfEw8jCYGL5wa19yrVCn
+46E6iLik12TWM4gpkTWXbkUjDxJ9q1nw7cdJ6tNykNWFQVyH8soHed1AfrPbj2KE1KYausbRyVVUm7rCbjmHLNkE3BRQcs7
 ```
