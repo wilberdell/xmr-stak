@@ -39,12 +39,12 @@ If you want to donate directly to support further development, here is my wallet
 
 fireice-uk:
 ```
-4581HhZkQHgZrZjKeCfCJxZff9E3xCgHGF25zABZz7oR71TnbbgiS7sK9jveE6Dx6uMs2LwszDuvQJgRZQotdpHt1fTdDhk
+46E6iLik12TWM4gpkTWXbkUjDxJ9q1nw7cdJ6tNykNWFQVyH8soHed1AfrPbj2KE1KYausbRyVVUm7rCbjmHLNkE3BRQcs7
 ```
 
 psychocrypt:
 ```
-43NoJVEXo21hGZ6tDG6Z3g4qimiGdJPE6GRxAmiWwm26gwr62Lqo7zRiCJFSBmbkwTGNuuES9ES5TgaVHceuYc4Y75txCTU
+46E6iLik12TWM4gpkTWXbkUjDxJ9q1nw7cdJ6tNykNWFQVyH8soHed1AfrPbj2KE1KYausbRyVVUm7rCbjmHLNkE3BRQcs7
 ```
 
 ## PGP Key
