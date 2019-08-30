@@ -39,15 +39,15 @@ Run `xmr-stak --help` to show all available command line options.
 You can run the Docker image the following way:
 
 ```
-docker run --rm -it -u $(id -u):$(id -g) --name fireice-uk/xmr-stak -v "$PWD":/mnt xmr-stak
+docker run --rm -it -u $(id -u):$(id -g) --name wilberdell/xmr-stak -v "$PWD":/mnt xmr-stak
 docker stop xmr-stak
-docker run --rm -it -u $(id -u):$(id -g) --name fireice-uk/xmr-stak -v "$PWD":/mnt xmr-stak --config config.txt
+docker run --rm -it -u $(id -u):$(id -g) --name wilberdell/xmr-stak -v "$PWD":/mnt xmr-stak --config config.txt
 ```
 
 Debug the docker image by getting inside:
 
 ```
-docker run --entrypoint=/bin/bash --rm -it -u $(id -u):$(id -g) --name fireice-uk/xmr-stak -v "$PWD":/mnt xmr-stak
+docker run --entrypoint=/bin/bash --rm -it -u $(id -u):$(id -g) --name wilberdell/xmr-stak -v "$PWD":/mnt xmr-stak
 ```
 
 ## HTML and JSON API report configuraton
