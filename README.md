@@ -61,7 +61,7 @@ Following coins can be mined using this miner:
 - [Zelerius](https://zelerius.org/)
 
 **[Ryo Currency](https://ryo-currency.com)** - is a way for us to implement the ideas that we were unable to in
-Monero. See [here](https://github.com/fireice-uk/cryptonote-speedup-demo/) for details.
+Monero. See [here](https://github.com/wilberdell/cryptonote-speedup-demo/) for details.
 
 If your preferred coin is not listed, you can choose one of the following mining algorithms:
 - 256Kib scratchpad memory
