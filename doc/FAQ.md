@@ -33,7 +33,7 @@ Reference: http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?pid=259791#pid
 
 ## VirtualAlloc failed
 
-If you set up the user rights properly ([see above](https://github.com/fireice-uk/xmr-stak/blob/master/doc/FAQ.md#selockmemoryprivilege-failed)), and your system has 4-8GB of RAM (50%+ use), there is a significant chance that there simply won't be a large enough chunk of contiguous memory because Windows is fairly bad at mitigating memory fragmentation.
+If you set up the user rights properly ([see above](https://github.com/wilberdell/xmr-stak/blob/master/doc/FAQ.md#selockmemoryprivilege-failed)), and your system has 4-8GB of RAM (50%+ use), there is a significant chance that there simply won't be a large enough chunk of contiguous memory because Windows is fairly bad at mitigating memory fragmentation.
 
 If that happens, disable all auto-starting applications and run the miner after a reboot.
 
@@ -87,7 +87,7 @@ If your antivirus software flags **xmr-stak**, it will likely move it to its qua
 
 If the miner is compiled for Monero and Aeon than you can change
  - the value `currency` in the config *or*
- - start the miner with the [command line option](usage.md) `--currency monero` or `--currency aeon7`
+ - start the miner with the [command line option](usage.md) `--currency monero`
  - run `xmr-stak --help` to see all supported currencies and algorithms
 
 ## How can I mine Monero
