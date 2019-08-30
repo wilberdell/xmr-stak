@@ -15,7 +15,7 @@ If your antivirus software flags **xmr-stak**, it will likely move it to its qua
 ### Change Currency to Mine
 If the miner is compiled for Monero and Aeon than you can change
  - the value `currency` in the config *or*
- - start the miner with the [command line option](usage.md) `--currency monero` or `--currency aeon7`
+ - start the miner with the [command line option](usage.md) `--currency monero`
  - run `xmr-stak --help` to see all supported currencies and algorithms
 
 ### How can I mine Monero
